@@ -1,6 +1,6 @@
 ﻿# Library, Protocol, and Asset Installation
 
-1. Загрузите библиотеки из репозитория [Client](https://github.com/Hytale-Client-C/Client) и распакуйте их в ту же папку.
+1. Загрузите библиотеки из репозитория [Client](https://github.com/Hytale-Client-C/Client) и распакуйте их в ту же папку (`latest`).
 
 2. В папке `Game` создайте папку `Interface`. Должно получиться так: `release\package\game\latest\Client\Game\Interface`.
 
