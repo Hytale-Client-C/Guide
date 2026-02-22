@@ -1,6 +1,6 @@
 ﻿# Library, Protocol, and Asset Installation
 
-1. Download the libraries from the [Client](https://github.com/Hytale-Client-C/Client) repository and unzip it to the same folder.
+1. Download the libraries from the [Client](https://github.com/Hytale-Client-C/Client) repository and unzip it to the same folder (`latest`).
 
 2. In the `Game` folder, create a folder named `Interface`. It should look like this:
    `release\package\game\latest\Client\Game\Interface`
